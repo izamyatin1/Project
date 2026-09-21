@@ -26,6 +26,10 @@ The project uses **Python**, **NumPy**, and **Pandas** to work with structured d
 | Pandas | Data analysis and manipulation |
 | GitHub | Version control and collaboration |
 
+## Important Note
+
+> Good documentation makes software easier to understand, maintain, and contribute to.
+
 ## Example Code
 
 ```python
@@ -42,3 +46,4 @@ average = df["Score"].mean()
 
 print(df)
 print("Average Score:", average)
+
